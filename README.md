@@ -11,9 +11,6 @@
   <a href="mailto:shreshth0410@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=shreshth410&icon=0&color=0" />
-  </a>
 </p>
 
 ---
@@ -94,7 +91,7 @@ I'm a B.Tech Computer Science student at MIT Manipal with a strong focus on **Ma
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreshth410&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shreshth410&theme=dark&hide_border=false" /><br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshth410&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
