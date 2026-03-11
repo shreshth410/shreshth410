@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shreshth Kabra 👋</h1>
 
 <p align="center">
-  <em>CSE Undergrad @ Manipal Institute of Technology &nbsp;|&nbsp; ML & AI Developer &nbsp;|&nbsp; Hackathon Winner</em>
+  <em>CSE Undergrad &nbsp;|&nbsp; ML & AI Developer &nbsp;|&nbsp; Hackathon Winner</em>
 </p>
 
 <p align="center">
