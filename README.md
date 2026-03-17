@@ -3,7 +3,6 @@
 <p align="center">
   <em>CSE Undergrad &nbsp;|&nbsp; ML & AI Developer &nbsp;|&nbsp; Hackathon Winner</em>
 </p>
----
 
 ## 👨‍💻 About Me
 
