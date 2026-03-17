@@ -3,16 +3,6 @@
 <p align="center">
   <em>CSE Undergrad &nbsp;|&nbsp; ML & AI Developer &nbsp;|&nbsp; Hackathon Winner</em>
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/shreshth-kabra-51788a333">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shreshth0410@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
