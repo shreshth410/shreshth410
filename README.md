@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a B.Tech Computer Science student at MIT Manipal with a strong focus on **Machine Learning, Deep Learning, and AI-powered systems**. I enjoy building impactful, real-world projects — from AI-driven healthcare tools to intelligent music recommendation engines.
+I'm a B.Tech Computer Science student with a strong focus on **Machine Learning, Deep Learning, and AI-powered systems**. I enjoy building impactful, real-world projects — from AI-driven healthcare tools to intelligent music recommendation engines.
 
 - 🔭 &nbsp;Currently working on: **AI-Powered Smart Patient Triage System (PARS)**
 - 🌱 &nbsp;Currently learning: **Deep Learning · NLP · MLOps**
