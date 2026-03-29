@@ -47,6 +47,7 @@ I'm a B.Tech Computer Science student with a strong focus on **Machine Learning,
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Web & Backend**
 
@@ -64,6 +65,7 @@ I'm a B.Tech Computer Science student with a strong focus on **Machine Learning,
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge&logo=data&logoColor=white)
 
 **Tools & Platforms**
 
