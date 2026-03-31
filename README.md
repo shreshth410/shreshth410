@@ -8,7 +8,7 @@
 
 I'm a B.Tech Computer Science student with a strong focus on **Machine Learning, Deep Learning, and AI-powered systems**. I enjoy building impactful, real-world projects — from AI-driven healthcare tools to intelligent music recommendation engines.
 
-- 🔭 &nbsp;Currently working on: **AI-Powered Smart Patient Triage System (PARS)**
+- 🔭 &nbsp;Currently working on: **Agentic AI pipeline for medical coding and compliance model (PARS)**
 - 🌱 &nbsp;Currently learning: **Deep Learning · NLP · MLOps**
 - 🏆 &nbsp;Recent highlight: **1st place @ PRAGYAN x KANINI AI Hackathon 2026**
 - 💬 &nbsp;Ask me about: **Machine Learning · Python · REST APIs**
