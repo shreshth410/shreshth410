@@ -82,9 +82,9 @@ I'm a B.Tech Computer Science student with a strong focus on **Machine Learning,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreshth410&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreshth410&theme=github_dark)
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshth410&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/username=shreshth410&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ---
