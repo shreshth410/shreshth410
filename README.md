@@ -10,7 +10,7 @@ I'm a B.Tech Computer Science student with a strong focus on **Machine Learning,
 
 - 🔭 &nbsp;Currently working on: **Agentic AI pipeline for medical coding and compliance model (PARS)**
 - 🌱 &nbsp;Currently learning: **Deep Learning · NLP · MLOps**
-- 🏆 &nbsp;Recent highlight: **1st place @ PRAGYAN x KANINI AI Hackathon 2026**
+- 🏆 &nbsp;Recent highlight: **1st place @ Enigma ML Contest 2026**
 - 💬 &nbsp;Ask me about: **Machine Learning · Python · REST APIs**
 - 🎸 &nbsp;Outside of code: I play guitar and sing!
 
