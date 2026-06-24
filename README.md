@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Shreshth Kabra 👋</h1>
 
 <p align="center">
-  <em>CSE Undergrad &nbsp;|&nbsp; ML & AI Developer &nbsp;|&nbsp; Hackathon Winner</em>
+  <em>CSE Undergrad &nbsp;|&nbsp; ML & AI Developer &nbsp;|&nbsp; 9x Hackathon Winner</em>
 </p>
 
 ## 👨‍💻 About Me
 
 I'm a B.Tech Computer Science student with a strong focus on **Machine Learning, Deep Learning, and AI-powered systems**. I enjoy building impactful, real-world projects — from AI-driven healthcare tools to intelligent music recommendation engines.
 
-- 🔭 &nbsp;Currently working on: **Agentic AI pipeline for medical coding and compliance model (PARS)**
+- 🔭 &nbsp;Currently working on: **AI powered Auto-QA evaluation pipeline**
 - 🌱 &nbsp;Currently learning: **Deep Learning · NLP · MLOps**
 - 🏆 &nbsp;Recent highlight: **1st place @ Enigma ML Contest 2026**
 - 💬 &nbsp;Ask me about: **Machine Learning · Python · REST APIs**
