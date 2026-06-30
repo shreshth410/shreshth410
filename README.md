@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shreshth Kabra 👋</h1>
 
 <p align="center">
-  <em>CSE Undergrad &nbsp;|&nbsp; ML & AI Developer &nbsp;|&nbsp; 9x Hackathon Winner</em>
+  <em>CSE Undergrad &nbsp;|&nbsp; ML & AI Developer &nbsp;|&nbsp; 9x Hackathon Winner &nbsp;|&nbsp; shreshth-kabra.vercel.app</em>
 </p>
 
 ## 👨‍💻 About Me
